@@ -1,5 +1,5 @@
-(![Green and Black Modern Futuristic Technology Presentation](https://github.com/user-attachments/assets/e8208015-9469-435b-a70a-81fdaff15324)
-)
+![Green and Black Modern Futuristic Technology Presentation](https://github.com/user-attachments/assets/e8208015-9469-435b-a70a-81fdaff15324)
+
 
 <h1 align="center">Hi 👋, I'm Tarun Jyoti</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
